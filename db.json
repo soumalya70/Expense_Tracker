@@ -1,0 +1,30 @@
+{
+    "accesskey": "ba74e31c-970f-11ed-8fd0-f446375eb7c0",
+    "secretkey": "ab9eeae5-fd26-49ca-aa73-66163a532fda",
+    "item_types": [
+        "Food",
+        "Beverges",
+        "Clothing",
+        "Stationaries",
+        "Electronic Devics",
+        "Wearables"
+    ],
+    "users": [
+        {
+            "name": "ss",
+            "email": "ss@gmail.com",
+            "password": "trezx123",
+            "username": "ss70",
+            "purches": {
+                "2023-01-18": [
+                    {
+                        "item_name": "Biscuit",
+                        "item_type": "snack",
+                        "item_price": "10",
+                        "purchase_time": "2023-01-18 16:24:09.860730+05:30"
+                    }
+                ]
+            }
+        }
+    ]
+}
